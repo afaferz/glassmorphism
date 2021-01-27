@@ -2,7 +2,7 @@
 
 > A simple project to study Glassmorphism Effect with Vue.js 
 
-![](/src/assets/img/glassmorphism.mp4)
+![](/src/assets/img/glassmorphism_1.gif)
 ## How to deploy yourself
 
 ``` bash
