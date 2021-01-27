@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudo sobre - Glassmorphism</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="/dist/build.js"></script>
+    <script>
+      VanillaTilt.init(document.querySelectorAll(".card-item"), {
+        max: 10,
+        speed: 100,
+        glare: true,
+        "max-glare": 0.25,
+        scale: 1.1,
+      });
+    </script>
+  </body>
+</html>
